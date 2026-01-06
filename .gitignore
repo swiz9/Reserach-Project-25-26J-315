@@ -1,0 +1,9 @@
+# Ignore MIT-BIH dataset directory
+mitdb/
+
+# Ignore trained model files
+arrhythmia_model.h5
+model-00006-0.159-0.952-0.002-0.961.h5
+
+# Ignore model initialization / checkpoint folder
+model_init_2026-01-0521_43_34.347234/
